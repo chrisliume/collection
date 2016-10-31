@@ -2,14 +2,14 @@
 [百度移动统计](http://tongji.baidu.com/data/mobile/brand)
 
 ### 页面描述
-忽略将页面中的数字识别为电话号码
+- 忽略将页面中的数字识别为电话号码
 `<meta name="format-detection" content="telephone=no" />`
-忽略Android平台中对邮箱地址的识别
+- 忽略Android平台中对邮箱地址的识别
 `<meta name="format-detection" content="email=no" />`
-当网站添加到主屏幕快速启动方式，可隐藏地址栏，仅针对ios的safari
+- 当网站添加到主屏幕快速启动方式，可隐藏地址栏，仅针对ios的safari
 `<meta name="apple-mobile-web-app-capable" content="yes" />
 <!-- ios7.0版本以后，safari上已看不到效果 -->`
-将网站添加到主屏幕快速启动方式，仅针对ios的safari顶端状态条的样式
+- 将网站添加到主屏幕快速启动方式，仅针对ios的safari顶端状态条的样式
 `<meta name="apple-mobile-web-app-status-bar-style" content="black" />
 <!-- 可选default、black、black-translucent -->`
 [参考资料](http://www.cnblogs.com/PeunZhang/p/3407453.html)
@@ -45,7 +45,7 @@ input 的placeholder会出现文本位置偏上的情况：PC端设置line-heigh
 <a href="sms:12345654321">发短信</a>`
 
 ### 自动大写与自动修正
-要关闭这两项功能，可以通过autocapitalize 与autocorrect 这两个选项：
+- 要关闭这两项功能，可以通过autocapitalize 与autocorrect 这两个选项：
 `<input type="text" autocapitalize="off" autocorrect="off" />`
 
 ### Web移动端Fixed布局的解决方案
