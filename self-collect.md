@@ -80,7 +80,11 @@ fastclick
 
 zepto  库
 
+#### 常用动画库
 
+move.js
+
+velocity.js
 
 
 
