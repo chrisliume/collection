@@ -86,6 +86,15 @@ move.js
 
 velocity.js
 
+### SVG滤镜 SVG基础
+https://isux.tencent.com/svg-filter.html
+
+https://isux.tencent.com/svg-animate.html
+
+###  css 其他
+[巧妙的实现 CSS 斜线 ](http://www.cnblogs.com/coco1s/p/6026009.html)
+
+
 
 
 
