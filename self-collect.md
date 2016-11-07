@@ -94,8 +94,7 @@ https://isux.tencent.com/svg-animate.html
 ###  css 其他
 [巧妙的实现 CSS 斜线 ](http://www.cnblogs.com/coco1s/p/6026009.html)
 
-
-
+### [css实现两端对齐的3种方法](http://www.cnblogs.com/PeunZhang/p/3289493.html)
 
 
 
